@@ -139,7 +139,7 @@ strategies
    git clone https://github.com/yourusername/vendor-performance-analysis.git
 
 2. Load the CSVs and ingest into database:
-   python scripts/ingestion_db.py
+   ("script/ingestion_db.py")
 
 3. Create vendor summary table:
    python scripts/get_vendor_summary.py
