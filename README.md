@@ -139,10 +139,10 @@ strategies
    git clone https://github.com/yourusername/vendor-performance-analysis.git
 
 2. Load the CSVs and ingest into database:
-   -[`script/ingestion_db.py`](script/ingestion_db.pynb)
+   -[`script/ingestion_db.py`](script/ingestion_db.py)
 
 3. Create vendor summary table:
-   -[`script\get_vendor_summary.py`](script/get_vendor_summary.pynb)
+   -[`script/get_vendor_summary.py`](script/get_vendor_summary.py)
 4. Open and run notebooks:
 - [`notebooks/Exploratory_Data_Analysis.ipynb`](Notebook/exploratory_data_analysis.ipynb)
 - [`notebooks/Vendor_Performance_Analysis.ipynb`](notebooks/Vendor_Performance_Analysis.ipynb)
