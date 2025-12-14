@@ -148,7 +148,7 @@ strategies
 - [`notebooks/Vendor_Performance_Analysis.ipynb`](notebooks/Vendor_Performance_Analysis.ipynb)
 
 5. Open Power BI Dashboard:
-- [`dashboard/vendor_performance_dashboard.png`]("C:/vendor performance project/Dashboard/dashboard.png")
+- [`dashboard/vendor_performance_dashboard.png`](Dashboard/dashboard.png)
 
 
 
