@@ -130,7 +130,7 @@ strategies
 - Bulk Purchase Savings
 - Performance Heatmaps
 
-! [Vendor Performance Dashboard] (C:\vendor performance project\Dashboard\dashboard.png)
+! [Vendor Performance Dashboard] (Dashboard/dashboard.png)
 
 
 ## How to Run This Project
@@ -142,7 +142,7 @@ strategies
    [`script/ingestion_db.py`]("script/ingestion_db.py")
 
 3. Create vendor summary table:
-   python scripts/get_vendor_summary.py
+   [`script\get_vendor_summary.py`]("script\get_vendor_summary.py")
 4. Open and run notebooks:
 - [`notebooks/Exploratory_Data_Analysis.ipynb`](Notebook/exploratory_data_analysis.ipynb)
 - [`notebooks/Vendor_Performance_Analysis.ipynb`](notebooks/Vendor_Performance_Analysis.ipynb)
